@@ -1,9 +1,10 @@
 @component('mail::message')
-# Welcome to freeCodeGram
-
-This is a community of fellow developers and we love that you have joined us.
+# Bienvenido a freeCodeGram
 
 
-All the best,<br>
-Victor
+Esta es una comunidad de compañeros desarrolladores y nos encanta que se haya unido a nosotros.
+
+
+Los mejores deseos,<br>
+Gonzalo
 @endcomponent
